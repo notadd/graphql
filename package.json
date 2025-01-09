@@ -41,7 +41,7 @@
   "dependencies": {
     "@types/graphql": "14.2.3",
     "chokidar": "3.0.2",
-    "fast-glob": "3.0.4",
+    "fast-glob": "3.3.3",
     "graphql-tools": "4.0.5",
     "lodash": "4.17.15",
     "merge-graphql-schemas": "1.5.8",
